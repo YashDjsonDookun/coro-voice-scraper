@@ -4,9 +4,9 @@ import pyttsx3  # text-to-speech
 import speech_recognition as sr
 import re  # regex
 
-API_KEY = "tJTWO45anuWb"
-PROJECT_TOKEN = "tL0YT1KUsBO9"
-RUN_TOKEN = "thpdyEmTmWw8"
+API_KEY = ""  # Insert your API Key here
+PROJECT_TOKEN = ""  # Insert your Project Token Here
+# RUN_TOKEN = "" -> this would be if you want expand this project and make it fetch update results
 
 
 class Data:
