@@ -6,7 +6,7 @@ import re  # regex
 
 API_KEY = ""  # Insert your API Key here
 PROJECT_TOKEN = ""  # Insert your Project Token Here
-# RUN_TOKEN = "" -> this would be if you want expand this project and make it fetch update results
+# RUN_TOKEN = "" -> this would be if you want to expand this project and make it fetch updated results
 
 
 class Data:
