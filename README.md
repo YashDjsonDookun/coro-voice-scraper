@@ -16,8 +16,9 @@ Windows
 
 > pip install requests, pywin32, SpeechRecognitionm, pyttsx3
 > python main.py
-(windows users will have to install pyaudio from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 ```
+[windows users will have to install pyaudio from Here]: (https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+
 
 #### Data Source:
 https://www.worldometers.info/coronavirus/
