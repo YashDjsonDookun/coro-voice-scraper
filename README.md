@@ -17,7 +17,7 @@ Windows
 > pip install requests, pywin32, SpeechRecognitionm, pyttsx3
 > python main.py
 ```
-[windows users will have to install pyaudio from Here]: (https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
+Windows users will have to download pyaudio from here: [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio]
 
 
 #### Data Source:
