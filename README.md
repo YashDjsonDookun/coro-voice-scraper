@@ -7,15 +7,16 @@ _(To note that the results would be based on data collected on 11th of May 2020)
 
 #### Usage:
 ```python
-Linux, MacOs:
-    $ pip3 install requests, pywin32, SpeechRecognitionm, pyttsx3, pyaudio
-    $ python3 main.py
+Linux, MacOs
 
-Windows:
-    > pip install requests, pywin32, SpeechRecognitionm, pyttsx3
-    > python main.py
-    
-    windows users will have to install pyaudio from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+$ pip3 install requests, pywin32, SpeechRecognitionm, pyttsx3, pyaudio
+$ python3 main.py
+
+Windows
+
+> pip install requests, pywin32, SpeechRecognitionm, pyttsx3
+> python main.py
+(windows users will have to install pyaudio from https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio)
 ```
 
 #### Data Source:
