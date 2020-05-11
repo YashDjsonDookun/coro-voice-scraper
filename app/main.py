@@ -93,6 +93,7 @@ def main():
     while True:
         print("Listening...")
         text = get_audio()
+        print(text)
         result = None
 
         for pattern, func in COUNTRY_PATTERNS.items():
@@ -102,12 +103,14 @@ def main():
                 for country in country_list:
                     if country in words:
                         result = func(country)
+                        print(result)
                         break
                 break
 
         for pattern, func in TOTAL_PATTERNS.items():
             if pattern.match(text):
                 result = func()
+                print(result)
                 break
 
         if result:
