@@ -6,16 +6,16 @@
 _(To note that the results would be based on data collected on 11th of May 2020)_
 
 #### Usage:
-```python
+```
 Linux, MacOs
 
-$ pip3 install requests, pywin32, SpeechRecognitionm, pyttsx3, pyaudio
-$ python3 main.py
+    $ pip3 install requests, pywin32, SpeechRecognitionm, pyttsx3, pyaudio
+    $ python3 main.py
 
 Windows
 
-> pip install requests, pywin32, SpeechRecognitionm, pyttsx3
-> python main.py
+    > pip install requests, pywin32, SpeechRecognitionm, pyttsx3
+    > python main.py
 ```
 Windows users will have to download pyaudio from here: [https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio]
 
