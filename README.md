@@ -3,7 +3,6 @@
 > Followed this tutorial: https://www.youtube.com/watch?v=gJY8D468Jv0
 
 ### A Python voice assistant that you can ask corona-virus related questions
-_(To note that the results would be based on data collected on 11th of May 2020)_
 
 #### Usage:
 ```
